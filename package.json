@@ -4,7 +4,7 @@
     "description": "123",
     "main": "index.js",
     "scripts": {
-        "start": "npx chii start -p 80 -h chii.onrender.com"
+        "start": "npx chii start -p 80 -d chii.onrender.com"
     },
     "browserslist": [
       ">0.2%",
