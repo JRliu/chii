@@ -30,8 +30,8 @@
 
 // await app.listen({ port: 8000 });
 
-import chii from "https://esm.sh/chii@1.9.0";
+const chii = require('chii')
 
-await chii.start({
-  port: 8000
+chii.start({
+  port: 80
 });
