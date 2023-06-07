@@ -30,6 +30,6 @@
 
 // await app.listen({ port: 8000 });
 
-import chii from "npm:chii@^1.9.0";
+import chii from "https://esm.sh/chii@1.9.0";
 
 chii.start();
