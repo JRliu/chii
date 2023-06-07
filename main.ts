@@ -33,5 +33,5 @@
 import chii from "https://esm.sh/chii@1.9.0";
 
 chii.start({
-  port: 8000
+  port: 80
 });
